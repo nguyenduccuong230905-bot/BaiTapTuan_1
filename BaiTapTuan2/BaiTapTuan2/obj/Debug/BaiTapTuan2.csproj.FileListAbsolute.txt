@@ -1,0 +1,7 @@
+C:\Users\noname\source\repos\BaiTapTuan2\BaiTapTuan2\bin\Debug\BaiTapTuan2.exe.config
+C:\Users\noname\source\repos\BaiTapTuan2\BaiTapTuan2\bin\Debug\BaiTapTuan2.exe
+C:\Users\noname\source\repos\BaiTapTuan2\BaiTapTuan2\bin\Debug\BaiTapTuan2.pdb
+C:\Users\noname\source\repos\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.csproj.AssemblyReference.cache
+C:\Users\noname\source\repos\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.csproj.CoreCompileInputs.cache
+C:\Users\noname\source\repos\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.exe
+C:\Users\noname\source\repos\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.pdb
