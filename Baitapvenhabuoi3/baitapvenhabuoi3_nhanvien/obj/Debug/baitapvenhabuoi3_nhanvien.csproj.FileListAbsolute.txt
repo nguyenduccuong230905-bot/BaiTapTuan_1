@@ -1,0 +1,10 @@
+C:\Users\noname\source\repos\Baitapvenhabuoi3\baitapvenhabuoi3_nhanvien\bin\Debug\baitapvenhabuoi3_nhanvien.exe.config
+C:\Users\noname\source\repos\Baitapvenhabuoi3\baitapvenhabuoi3_nhanvien\bin\Debug\baitapvenhabuoi3_nhanvien.exe
+C:\Users\noname\source\repos\Baitapvenhabuoi3\baitapvenhabuoi3_nhanvien\bin\Debug\baitapvenhabuoi3_nhanvien.pdb
+C:\Users\noname\source\repos\Baitapvenhabuoi3\baitapvenhabuoi3_nhanvien\obj\Debug\baitapvenhabuoi3_nhanvien.csproj.AssemblyReference.cache
+C:\Users\noname\source\repos\Baitapvenhabuoi3\baitapvenhabuoi3_nhanvien\obj\Debug\baitapvenhabuoi3_nhanvien.dgvNhanVien.resources
+C:\Users\noname\source\repos\Baitapvenhabuoi3\baitapvenhabuoi3_nhanvien\obj\Debug\baitapvenhabuoi3_nhanvien.Properties.Resources.resources
+C:\Users\noname\source\repos\Baitapvenhabuoi3\baitapvenhabuoi3_nhanvien\obj\Debug\baitapvenhabuoi3_nhanvien.csproj.GenerateResource.cache
+C:\Users\noname\source\repos\Baitapvenhabuoi3\baitapvenhabuoi3_nhanvien\obj\Debug\baitapvenhabuoi3_nhanvien.csproj.CoreCompileInputs.cache
+C:\Users\noname\source\repos\Baitapvenhabuoi3\baitapvenhabuoi3_nhanvien\obj\Debug\baitapvenhabuoi3_nhanvien.exe
+C:\Users\noname\source\repos\Baitapvenhabuoi3\baitapvenhabuoi3_nhanvien\obj\Debug\baitapvenhabuoi3_nhanvien.pdb

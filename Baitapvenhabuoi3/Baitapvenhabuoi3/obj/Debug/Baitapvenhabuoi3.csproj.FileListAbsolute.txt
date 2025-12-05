@@ -1,0 +1,14 @@
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\bin\Debug\Baitapvenhabuoi3.exe.config
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\bin\Debug\Baitapvenhabuoi3.exe
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\bin\Debug\Baitapvenhabuoi3.pdb
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\obj\Debug\Baitapvenhabuoi3.csproj.AssemblyReference.cache
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\obj\Debug\Baitapvenhabuoi3.Form1.resources
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\obj\Debug\Baitapvenhabuoi3.Properties.Resources.resources
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\obj\Debug\Baitapvenhabuoi3.csproj.GenerateResource.cache
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\obj\Debug\Baitapvenhabuoi3.csproj.CoreCompileInputs.cache
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\obj\Debug\Baitapvenhabuoi3.exe
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\obj\Debug\Baitapvenhabuoi3.pdb
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\bin\Debug\baitapvenhabuoi3_nhanvien.exe
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\bin\Debug\baitapvenhabuoi3_nhanvien.pdb
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\bin\Debug\baitapvenhabuoi3_nhanvien.exe.config
+C:\Users\noname\source\repos\Baitapvenhabuoi3\Baitapvenhabuoi3\obj\Debug\Baitapve.43987AAA.Up2Date
