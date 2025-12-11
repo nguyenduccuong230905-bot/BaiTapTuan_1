@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\bin\Debug\Lab03_01.exe.config
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\bin\Debug\Lab03_01.exe
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\bin\Debug\Lab03_01.pdb
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\obj\Debug\Lab03_01.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\obj\Debug\Lab03_01.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\obj\Debug\Lab03_01.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\obj\Debug\Lab03_01.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\obj\Debug\Lab03_01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\obj\Debug\Lab03_01.exe
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\obj\Debug\Lab03_01.pdb
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_01\obj\Debug\Lab03_01.FrmWindowMedia.resources

@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\bin\Debug\Lab03_03.exe.config
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\bin\Debug\Lab03_03.exe
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\bin\Debug\Lab03_03.pdb
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\obj\Debug\Lab03_03.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\obj\Debug\Lab03_03.FrmQuanLySV.resources
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\obj\Debug\Lab03_03.FrmThemSV.resources
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\obj\Debug\Lab03_03.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\obj\Debug\Lab03_03.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\obj\Debug\Lab03_03.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\obj\Debug\Lab03_03.exe
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\obj\Debug\Lab03_03.pdb
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\obj\Debug\Lab03_03.QuanLySinhVienForm.resources
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_03\obj\Debug\Lab03_03.ThêmSinhVienForm.resources
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_03\obj\Debug\Lab03_03.csproj.AssemblyReference.cache
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_03\obj\Debug\Lab03_03.exe
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_03\obj\Debug\Lab03_03.pdb

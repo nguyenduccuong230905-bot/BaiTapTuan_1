@@ -1,0 +1,21 @@
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_02\bin\Debug\Lab03_02.exe.config
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_02\bin\Debug\Lab03_02.exe
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_02\bin\Debug\Lab03_02.pdb
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_02\obj\Debug\Lab03_02.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_02\obj\Debug\Lab03_02.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_02\obj\Debug\Lab03_02.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_02\obj\Debug\Lab03_02.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_02\obj\Debug\Lab03_02.exe
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_02\obj\Debug\Lab03_02.pdb
+C:\Users\Administrator\source\repos\Lab03_01\Lab03_02\obj\Debug\Lab03_02.FrmSoanThaoVanBan.resources
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_02\bin\Debug\Lab03_02.exe.config
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_02\bin\Debug\Lab03_02.exe
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_02\bin\Debug\Lab03_02.pdb
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_02\obj\Debug\Lab03_02.csproj.AssemblyReference.cache
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_02\obj\Debug\Lab03_02.FrmSoanThaoVanBan.resources
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_02\obj\Debug\Lab03_02.Properties.Resources.resources
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_02\obj\Debug\Lab03_02.csproj.GenerateResource.cache
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_02\obj\Debug\Lab03_02.csproj.CoreCompileInputs.cache
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_02\obj\Debug\Lab03_02.exe
+C:\Users\noname\Downloads\buoi 3-20251211T062930Z-1-001\buoi 3\Lab03_01\Lab03_02\obj\Debug\Lab03_02.pdb
+C:\Users\noname\Downloads\Bài Tập Buổi 5\buoi 5\Lab03_01\Lab03_02\obj\Debug\Lab03_02.csproj.AssemblyReference.cache
